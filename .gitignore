@@ -1,0 +1,4 @@
+venv/
+.vscode/
+approved_face/
+__pycache__/
