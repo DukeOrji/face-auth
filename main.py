@@ -27,7 +27,7 @@ def visual_result(frame, result, distance, left, top):
         2
     )
 
-
+#run faiss comparison
 def comparison(stranger_vector):
     distance, indices = index.search(
         stranger_vector,
