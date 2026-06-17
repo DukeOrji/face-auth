@@ -1,7 +1,7 @@
 # Face Authentication System
 
 ## Overview
-Realtime face authentication system using facial embeddings and FAISS vector similarity search.
+Real-time biometric authentication system utilizing facial embeddings, FAISS vector similarity search, and live webcam inference for authorized identity verification.
 
 ## Features
 - Realtime webcam authentication
@@ -26,3 +26,4 @@ Webcam Frame
 
 ##notes
 click "P" to end the webcam broadcast
+Make sure to run main.py (work still in progress)

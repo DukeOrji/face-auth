@@ -1,4 +1,6 @@
 venv/
 .vscode/
 approved_face/
+saved_face/
+main.py/
 __pycache__/
